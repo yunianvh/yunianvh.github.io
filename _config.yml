@@ -34,11 +34,11 @@ pwa:
 
 # Navigation links
 nav:
-  home: '/'
-  blog: '/blog/index.html'
-  archives: '/archives.html'
-  tags: '/tags.html'
-  about:   
+  主页: '/'
+  博客: '/blog/index.html'
+  归档: '/archives.html'
+  标签: '/tags.html'
+  我的:   
     GITHUB: 'https://github.com/yunianvh'
     GITEE: 'https://gitee.com/yunianvh'
     CSDN: 'https://blog.csdn.net/qq_35350654'
