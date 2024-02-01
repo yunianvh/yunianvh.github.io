@@ -42,4 +42,4 @@ usb-camera [[DOI]](https://gitee.com/yunianvh/usb-camera)
 
 扣扣：1412378121
 
-邮箱：18319045952@163.com | yunianvh@gmail.com
+邮箱：18319045952@163.com 或 yunianvh@gmail.com
