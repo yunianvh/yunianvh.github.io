@@ -1,7 +1,7 @@
 ---
 layout: page
 home-title: 玉念聿辉 国产程序员
-description: 7年开发经验，熟悉Android、Java、C++、Arduino、Vue等代发语音
+description: 7年开发经验，熟悉Android、Java、C++、Arduino、Vue等开发语言
 permalink: /index.html
 langs: ["zh-Hans", "en"]
 lang: "zh-Hans"
