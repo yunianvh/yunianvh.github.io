@@ -2,10 +2,10 @@
 version: 1.2.1
 
 # Site settings 配置站点
-title: 'Mr Li'
+title: '玉念聿辉'
 description: '个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。'
-keyword: 'zhonger，zhonger的博客，nodejs，kvm, 机器学习'
-url: 'https://h2o-ac.pages.dev' # your host
+keyword: '吴明辉，玉念聿辉的博客，Android，yunianvh，音视频开发，GB28181'
+url: 'https://yunianvh.github.io' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -24,7 +24,7 @@ default_lang: "zh-Hans"
 # Github
 github:
   enabled: true
-  owner: zhonger
+  owner: yunianvh
   repository: jekyll-theme-H2O-ac
 
 # PWA
@@ -39,7 +39,9 @@ nav:
   archives: '/archives.html'
   tags: '/tags.html'
   about:   
-    RSS: '/feed.xml'
+    GITHUB: 'https://github.com/yunianvh'
+    GITEE: 'https://gitee.com/yunianvh'
+    CSDN: 'https://blog.csdn.net/qq_35350654'
 
 # Gray for the whole site 全站灰色
 gray: false
@@ -57,9 +59,9 @@ footer:
   since: 2015
 
 # Author 配置博主信息
-author: 'zhonger'
-nickname: 'zhonger'
-bio: '全栈开发者，热爱前端、运维和架构设计'
+author: '玉念聿辉'
+nickname: '吴明辉'
+bio: '全栈开发者，熟悉音视频、工业物联、数字孪生'
 avatar: '/assets/img/profile.webp'
 
 # Search
@@ -96,13 +98,13 @@ sns:
   # google-scholar: 'https://scholar.google.com/citations?user=AUupIooAAAAJ'
   # researchgate: 'https://www.researchgate.net/profile/Shengzhou-Li'
   # ORCID: 'https://orcid.org/0000-0001-6973-3825'
-  # github: 'https://github.com/zhonger'
+  # github: 'https://github.com/yunianvh'
   # linkedin: 'https://www.linkedin.com/in/shengzhouli/'
   # segmentfault: 'https://segmentfault.com/u/wuwozhonger'
 
 # Links 友情链接
 links:
-  # 'Mr Li': 'https://lisz.me'
+  # '玉念聿辉': 'https://blog.csdn.net/qq_35350654'
 
 # Supports 赞助商
 supports:
@@ -110,7 +112,7 @@ supports:
   webify: 
 
 # Beian 备案号
-beian: '沪ICP备xxxxxxxx号'
+beian: '粤ICP备xxxxxxxx号'
 
 # CC License
 cclicense: true
